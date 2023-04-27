@@ -1,5 +1,5 @@
 #pageTheme {background-color:rgb(12, 182, 182)}
 #pageIntroduction {color:black; text-align: center;} 
 #categories {padding: 10px; text-align: left; float: left; width: 20%}
-#shop {padding: 10px; text-align: center; width: 80%; float: left}
-.item {padding: 20px; border: 2px; width: 40%; border-color:gold}
+#shop {padding: 10px; text-align: center; width: 70%; float: left}
+.item {padding: 20px; border: 2px solid black; width: 35%; border-color:gold}
