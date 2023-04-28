@@ -1,5 +1,8 @@
 #pageTheme {background-color:rgb(12, 182, 182)}
 #pageIntroduction {color:black; text-align: center;} 
-#categories {padding: 10px; text-align: left; float: left; width: 20%}
-#shop {padding: 10px; text-align: center; width: 70%; float: left}
-.item {padding: 20px; border: 2px solid black; width: 35%; border-color:gold}
+#categories {padding: 10px; text-align: left; float: left; width: 18%; font-size: 25px;}
+#shop {padding: 10px; text-align: center; width: 70%; float: left; overflow: auto;}
+#pageEnd {content: ""; clear: both; text-align: center; font-size: 18px;}
+.itemGroup {overflow: auto;}
+.item {padding: 8px; border: 2px solid rgb(177, 177, 177); width: 30%; float: left; font-weight: bold;}
+
